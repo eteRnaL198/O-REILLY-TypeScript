@@ -1,9 +1,7 @@
-let a = 1 + 2
-let b = a +3
-let c = {
-  apple: a,
-  banana: b
-}
-let d = c.apple * 3
-
-console.log(a, b, c, d)
+let a = 1234
+var b = Infinity * 20
+const c = 5678
+let d = a < b
+let e: number = 100
+let f: 26.218 = 26.218
+let g: 27.218 = 10
